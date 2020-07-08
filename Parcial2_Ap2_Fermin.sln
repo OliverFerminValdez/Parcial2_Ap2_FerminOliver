@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2_Ap2_Fermin", "Parcial2_Ap2_Fermin\Parcial2_Ap2_Fermin.csproj", "{DD31CAA4-529B-4CAC-BDC0-5E9C1AB58EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD31CAA4-529B-4CAC-BDC0-5E9C1AB58EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD31CAA4-529B-4CAC-BDC0-5E9C1AB58EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD31CAA4-529B-4CAC-BDC0-5E9C1AB58EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD31CAA4-529B-4CAC-BDC0-5E9C1AB58EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE7D2F4-54BD-4E1C-887A-73B5BF17D0CD}
+	EndGlobalSection
+EndGlobal
